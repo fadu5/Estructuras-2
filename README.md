@@ -3,3 +3,5 @@
 [clase 2-tablas de dimensionamiento.pdf](https://github.com/user-attachments/files/31217368/clase.2-tablas.de.dimensionamiento.pdf)
 
 [tablas-c3batiles.pdf](https://github.com/user-attachments/files/31220934/tablas-c3batiles.pdf)
+
+[clase 3 a -Flexión en elementos lineales-UT04.pdf](https://github.com/user-attachments/files/31313349/clase.3.a.-Flexion.en.elementos.lineales-UT04.pdf)
